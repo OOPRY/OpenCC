@@ -34,7 +34,7 @@ option(USE_SYSTEM_GOOGLE_BENCHMARK "Use system version of Google Benchmark" OFF)
 option(USE_SYSTEM_GTEST "Use system version of GoogleTest" OFF)
 option(USE_SYSTEM_MARISA "Use system version of Marisa" OFF)
 option(USE_SYSTEM_PYBIND11 "Use system version of pybind11" OFF)
-option(USE_SYSTEM_RAPIDJSON "Use system version of RapidJSON" ON)
+option(USE_SYSTEM_RAPIDJSON "Use system version of RapidJSON" OFF)
 option(USE_SYSTEM_TCLAP "Use system version of TCLAP" OFF)
 
 ######## Package information
