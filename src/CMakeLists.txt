@@ -13,7 +13,7 @@ else()
   include_directories(${RAPIDJSON_INCLUDE_DIRS})
 endif()
 if(NOT USE_SYSTEM_TCLAP)
-  include_directories(../deps/tclap-1.2.2)
+  include_directories(../deps/tclap-1.2.5)
 endif()
 
 # Library
